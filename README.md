@@ -19,5 +19,6 @@ Admin panel : <a href="https://coder-acjhp.github.io/City-Guide-Template/html/lo
 </div> <br>
 <h2> Any question(s) ?</h2>
 <p> For any question please email me at : <a href="mailto:hexa.octabin@gmail.com">hexa.octabin@gmail.com</a></p>
+<p>original repo - <a>https://github.com/Coder-ACJHP/City-Guide-Template</a></p>
 </body>
 </html>
